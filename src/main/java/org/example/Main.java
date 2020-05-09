@@ -13,7 +13,7 @@ public class Main {
         TelegramBotsApi telegramBotsApi = new TelegramBotsApi();
         try {
             telegramBotsApi.registerBot(new Bot());
-            telegramBotsApi.registerBot(new BotProMin());
+//            telegramBotsApi.registerBot(new BotProMin());
         } catch (TelegramApiRequestException e) {
             e.printStackTrace();
         }

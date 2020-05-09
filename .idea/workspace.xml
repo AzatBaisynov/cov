@@ -40,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,10 +115,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="677" y="178" key="#Main" timestamp="1589058495676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="178" key="#Main/0.0.1920.1040@0.0.1920.1040" timestamp="1589058495676" />
     <state x="569" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1587056089216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="569" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587056089216" />
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589058404956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589058404956" />
     <state x="819" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587055893391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,22 +135,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1022" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587066368775" />
-    <state width="1028" height="254" key="GridCell.Tab.0.bottom" timestamp="1588016389143">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1589058540529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1028" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588016389143" />
-    <state width="1028" height="254" key="GridCell.Tab.0.center" timestamp="1588016389143">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589058540529" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1589058540529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1028" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588016389143" />
-    <state width="1028" height="254" key="GridCell.Tab.0.left" timestamp="1588016389143">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589058540529" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1589058540529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1028" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588016389143" />
-    <state width="1028" height="254" key="GridCell.Tab.0.right" timestamp="1588016389143">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589058540529" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1589058540529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1028" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588016389143" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589058540529" />
     <state x="657" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1587553362497">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

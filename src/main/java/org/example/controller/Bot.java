@@ -92,10 +92,10 @@ public class Bot extends TelegramLongPollingBot {
 //    }
 
     public String getBotUsername() {
-        return "Covid_statistics";
+        return "Covid_statisticsBot";
     }
 
     public String getBotToken() {
-        return "1160635009:AAEGZxCC1n_kpbfsP199AAJs609y6U4Q2wc";
+        return "1153848979:AAEPEJ_Xt8Bt0P8Kyiq1mxhBMDcbGcnMqYk";
     }
 }
